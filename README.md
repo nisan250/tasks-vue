@@ -1,1 +1,1 @@
-# training-vue-simple-component
+# Vue Training - tasks manager
